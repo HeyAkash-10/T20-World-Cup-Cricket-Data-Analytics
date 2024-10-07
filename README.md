@@ -36,7 +36,7 @@ to play in the match.
 - Average Balls Faced > 12
 - Batting Position > 4
 
-  ### All Rounders
+  ### Lower Orders
 - Batting Average > 15
 - Strike Rate >= 140
 - Inning Batted > 2
