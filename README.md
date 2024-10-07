@@ -11,6 +11,8 @@ and then visualized using Power BI.
 Middle Order, Finishers, Lower Order, and Fast Bowlers) for choosing the top 11 players
 to play in the match.
 
+* The team should be able to score atleast 180 runs on an average and should be able to defend 150 runs on an average.
+
 ## The selected roles and their corresponding parameters are as follows:
 
 ### Openers
